@@ -13,7 +13,7 @@ import Portfolio from "./components/Portfolio"
 
 function App() {
   return (
-    <HashRouter>
+    <HashRouter basename='/'>
 
     <div className="app">
     <NavBar />

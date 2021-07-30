@@ -38,7 +38,7 @@ const About = () => {
           width: "50%",
         }}
       >
-        <h1 style={{ marginTop: "25px" }}>Contact Form</h1>
+        <h1 style={{ marginTop: "25px" }}>Send an email to  andrea.fullstack@gmail.com <br /> or use the form below</h1>
         <form className="form-style-6" onSubmit={sendEmail} >
           <label>name</label>
           <input  type="text" name="name" className="form-control" />

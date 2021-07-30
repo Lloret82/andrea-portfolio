@@ -1,7 +1,8 @@
 import  React from 'react'
 import './index.css'
 import { Typewriter } from 'react-simple-typewriter'
-
+import pic1 from '../Home/portfolio.jpg'
+import pic2 from '../Home/mern-stack.png'
 const Home = () => {
   return (
     <div className="home">
@@ -25,10 +26,10 @@ const Home = () => {
       </div>
       <div className="person">
         <img
-          src="/portfolio.jpg"
+          src={pic1}
           alt="person"
         />
-        <img src="/mern-stack.png" alt=""/>
+        <img src={pic2} alt=""/>
         </div>
       </div>
    

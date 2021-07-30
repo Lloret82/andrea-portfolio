@@ -3,7 +3,7 @@ import "./style.css";
 const About = () => {
   return (
     <div className="skills">
-      <h1>Skills</h1>
+      
       <div className="content">
         <div>
           <strong>Languages:</strong>
