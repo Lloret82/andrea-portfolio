@@ -1,9 +1,17 @@
-.container{
+.info{
+	
+	text-align: center;
 	width: 100%;
+	
+	padding-bottom: 30px;
+	margin: 0 auto;
+}
+.mail{
+	text-align: center !important;
 }
 .form-style-6{
 	font: 95% Arial, Helvetica, sans-serif;
-	max-width: 800px;
+	width: 80%;
 	margin: 10px auto;
 	padding: 16px;
 	background: #F7F7F7;
@@ -67,7 +75,7 @@
 	-moz-box-sizing: border-box;
 	width: 100%;
 	padding: 3%;
-	background: #43D1AF;
+	background: black;
 	border-bottom: 2px solid #30C29E;
 	border-top-style: none;
 	border-right-style: none;
@@ -78,3 +86,9 @@
 .form-style-6 input[type="button"]:hover{
 	background: #2EBC99;
 }
+@media screen and (max-width: 600px) {
+	.info {
+	  font-size: 2vh;
+	  max-width: 200px;
+	}
+  }
