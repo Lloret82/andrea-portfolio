@@ -1,3 +1,4 @@
+import { HashRouter } from "react-router-dom";
 
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import './App.css';
@@ -12,7 +13,7 @@ import Portfolio from "./components/Portfolio"
 
 function App() {
   return (
-    <Router basename="/">
+    <HashRouter>
 
     <div className="app">
     <NavBar />
@@ -29,7 +30,7 @@ function App() {
       <Footer />
 
     </div>
-    </Router>
+    </HashRouter>
   )
 }
 
