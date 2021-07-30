@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.d05acf9c.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.b11084c3.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.b11084c3.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.d8bd391c.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.d8bd391c.js.map",
-    "static/js/2.642bdf3b.chunk.js": "/react-portfolio/static/js/2.642bdf3b.chunk.js",
-    "static/js/2.642bdf3b.chunk.js.map": "/react-portfolio/static/js/2.642bdf3b.chunk.js.map",
-    "static/js/3.1a120d40.chunk.js": "/react-portfolio/static/js/3.1a120d40.chunk.js",
-    "static/js/3.1a120d40.chunk.js.map": "/react-portfolio/static/js/3.1a120d40.chunk.js.map",
-    "index.html": "/react-portfolio/index.html",
-    "static/css/main.d05acf9c.chunk.css.map": "/react-portfolio/static/css/main.d05acf9c.chunk.css.map",
-    "static/js/2.642bdf3b.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.642bdf3b.chunk.js.LICENSE.txt",
-    "static/media/cv-dev.d6be2180.pdf": "/react-portfolio/static/media/cv-dev.d6be2180.pdf"
+    "main.css": "/andrea-portfolio/static/css/main.d05acf9c.chunk.css",
+    "main.js": "/andrea-portfolio/static/js/main.b360d234.chunk.js",
+    "main.js.map": "/andrea-portfolio/static/js/main.b360d234.chunk.js.map",
+    "runtime-main.js": "/andrea-portfolio/static/js/runtime-main.02d0853a.js",
+    "runtime-main.js.map": "/andrea-portfolio/static/js/runtime-main.02d0853a.js.map",
+    "static/js/2.642bdf3b.chunk.js": "/andrea-portfolio/static/js/2.642bdf3b.chunk.js",
+    "static/js/2.642bdf3b.chunk.js.map": "/andrea-portfolio/static/js/2.642bdf3b.chunk.js.map",
+    "static/js/3.1a120d40.chunk.js": "/andrea-portfolio/static/js/3.1a120d40.chunk.js",
+    "static/js/3.1a120d40.chunk.js.map": "/andrea-portfolio/static/js/3.1a120d40.chunk.js.map",
+    "index.html": "/andrea-portfolio/index.html",
+    "static/css/main.d05acf9c.chunk.css.map": "/andrea-portfolio/static/css/main.d05acf9c.chunk.css.map",
+    "static/js/2.642bdf3b.chunk.js.LICENSE.txt": "/andrea-portfolio/static/js/2.642bdf3b.chunk.js.LICENSE.txt",
+    "static/media/cv-dev.d6be2180.pdf": "/andrea-portfolio/static/media/cv-dev.d6be2180.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8bd391c.js",
+    "static/js/runtime-main.02d0853a.js",
     "static/js/2.642bdf3b.chunk.js",
     "static/css/main.d05acf9c.chunk.css",
-    "static/js/main.b11084c3.chunk.js"
+    "static/js/main.b360d234.chunk.js"
   ]
 }

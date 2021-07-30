@@ -12,7 +12,7 @@ import Portfolio from "./components/Portfolio"
 
 function App() {
   return (
-    <Router basename="/react-portfolio">
+    <Router basename="/">
 
     <div className="app">
     <NavBar />
