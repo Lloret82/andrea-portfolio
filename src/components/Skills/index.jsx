@@ -19,6 +19,7 @@ const About = () => {
           <li>Material-ui</li>
           <li>React.js</li>
           <li>Next.js</li>
+          <li>GraphQL</li>
         </div>
         <div>
           <strong>Tools:</strong>

@@ -1,10 +1,10 @@
 import "./style.css";
-import cv from "./cv-dev.pdf"
+
 
 const About = () => {
   return (
     <div className="wrap">
-      <a href={cv} class="btn-slide" download>
+      <a href="https://drive.google.com/file/d/12JrzYC0Sg5kdpJ9VUlskVgwK7dhhGXp_/view?usp=sharing" class="btn-slide" download>
   <span class="circle"><i class="fa fa-download"></i></span>
   <span class="title">Download</span>
   <span class="title-hover">Click here</span>

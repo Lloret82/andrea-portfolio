@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
 import "./style.css";
+import loghino from "./logo192.png"
 
 const NavBar = () => {
   const [open, setOpen] = useState(false);
@@ -33,7 +34,7 @@ const NavBar = () => {
         <div className="logo">
           <Link to="/">
             <img
-              src="https://i.ibb.co/CVnW7Pj/logo.png"
+              src={loghino}
               alt="brand"
             />
           </Link>
