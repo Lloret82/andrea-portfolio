@@ -34,6 +34,7 @@ const About = () => {
         </div>
         <div>
           <strong>Other Skills:</strong>
+          <li>AWS (S3, EC2, Route53, CloudFront)</li>
           <li>Wordpress</li>
           <li>Magento</li>
           <li>SEO</li>
