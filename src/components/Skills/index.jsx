@@ -16,7 +16,7 @@ const About = () => {
           <strong>Libraries:</strong>
           <li>Bootstrap</li>
           <li>Express.js</li>
-          <li>Material-ui</li>
+          <li>Material-UI</li>
           <li>React.js</li>
           <li>Next.js</li>
           <li>GraphQL</li>
@@ -35,7 +35,7 @@ const About = () => {
         <div>
           <strong>Other Skills:</strong>
           <li>AWS (S3, EC2, Route53, CloudFront)</li>
-          <li>Wordpress</li>
+          <li>WordPress</li>
           <li>Magento</li>
           <li>SEO</li>
           <li>Social Media Marketing</li>

@@ -25,7 +25,7 @@ const Portfolio = () => {
               </div>
             </div>
             <p className="card__description">
-              With WorkWith you can easily find collaborator for your ideas,
+              WorkWith can easily find collaborator for your ideas,
               your project, and make them become real!!! The portal is free and
               open to everyone.
             </p>
